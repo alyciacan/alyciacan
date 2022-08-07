@@ -1,5 +1,5 @@
+![Hi, I'm Alycia](https://user-images.githubusercontent.com/105533317/183269562-85cb6c5a-4b32-40a4-9c6a-b373a93a84ac.svg)
 
-![Hi, I'm Alycia](https://user-images.githubusercontent.com/105533317/183269367-264a51ca-49a3-4d98-9d2c-6cb561eef424.png)
 
 - 🤝 I'm a Mod 2 student in the Front-End program at [Turing School of Software and Design](https://turing.edu/)
 - 🌱 I’m currently learning JavaScript, HTML, and CSS. 
