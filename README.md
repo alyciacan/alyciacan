@@ -1,7 +1,7 @@
 ![alt text](https://user-images.githubusercontent.com/105533317/183269562-85cb6c5a-4b32-40a4-9c6a-b373a93a84ac.svg "Hi!")
 
 
-- 🤝 I'm a Mod 2 student in the Front-End program at [Turing School of Software and Design](https://turing.edu/)
+- 🤝 I'm a Mod 3 student in the Front-End program at [Turing School of Software and Design](https://turing.edu/)
 - 🌱 I’m currently learning JavaScript, HTML, and CSS. 
 - 🤯 I am always looking for ways to make my code and communications cleaner and more effective.
 - 🎆 I’m excited about __edTech__ and __medTech__. As a former therapist and educator, I want to make therapists' and educators' lives easier!
