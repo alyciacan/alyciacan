@@ -1,4 +1,6 @@
-![alt text](https://user-images.githubusercontent.com/105533317/183269562-85cb6c5a-4b32-40a4-9c6a-b373a93a84ac.svg "Hi!")
+
+<img align="center" src="https://user-images.githubusercontent.com/105533317/197290455-85fdb5fb-4c82-4f91-9305-a17fb891022f.png"/>
+
 
 
 - 🤝 I'm a Mod 3 student in the Front-End program at [Turing School of Software and Design](https://turing.edu/)
