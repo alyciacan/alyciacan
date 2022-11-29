@@ -1,7 +1,7 @@
  <div align="center">
   <img src="https://user-images.githubusercontent.com/105533317/197370614-ff9dda21-339e-46bc-bb41-152108567379.png"/>
   <br />
-  <h5><a href="www.linkedin.com/in/alycia-canavan">Find me on LinkedIn</a>  ||   <a href="mailto:alycia.canavan@gmail.com">Drop me a line</a></h5>
+  <h5><a href="www.linkedin.com/in/alycia-canavan">Find me on LinkedIn</a>  ||   <a href="mailto:alyciacan.swe@gmail.com">Drop me a line</a></h5>
 </div>
 <hr />
 <h4>Tech Stack</h4>
