@@ -31,7 +31,7 @@
 <hr />
 <h4>About Me:</h4>
 <ul>
-<li>I'm a Mod 4 student in the Front-End program at <a href="https://turing.edu/">Turing School of Software and Design</a>
+<li>I'm a graduate of the Front-End program at <a href="https://turing.edu/">Turing School of Software and Design</a>
 <li>I am always looking for ways to make my code and communications cleaner and more effective.
 <li>I pride myself on my organization, problem-solving, collaboration and leadership skills, and my waffle recipe 🧇 . 
 <li>I’m excited about <i>edTech</i> and <i>MedTech</i>. As a former therapist and educator, I want to make therapists' and educators' lives easier!
